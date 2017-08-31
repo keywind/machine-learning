@@ -1,3 +1,17 @@
-# Project 5: Capstone
+# Deep Learning Capstone Project
 
-The Capstone Project for the Machine Learning Engineer Nanodegree does not have any requirements for code, libraries, or datasets. You are free to choose your project as you wish! For students who are unable to construct a capstone project on their own imagination, a pre-built project has been provided in `robot_motion_planning`.
+## Udacity - Machine Learning Nanodegree - Capstone Project
+
+This is my capstone project for the Udacity Machine Learning Nanodegree. I use deep learning to recognize digits in SVHN dataset.
+
+The Report.pdf is the main capstone report.
+
+I use Tensorflow to train my model and all code was implemented as Jupyter Notebooks (Python 2.7), including:
+
+* 1_Data_Preparing.ipynb
+
+  It's about data preprocess.
+
+* 2_Model.ipynb
+
+  It's about model architecture, trainding and evaluating.
